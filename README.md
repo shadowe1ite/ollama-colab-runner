@@ -6,7 +6,7 @@ You can use the free tier with your Google account with T4 hardware (16GB).
 
 You can also use this endpoint in your clients or even in VS Code via custom Ollama model.
 
-Click in the logo to open in Colab: [![Open in Colab](https://img.icons8.com/?size=64&id=lOqoeP2Zy02f&format=png)](https://colab.research.google.com/github/tecepeipe/ollama-colab-runner/blob/main/ollama_colab_runner.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tecepeipe/ollama-colab-runner/blob/main/ollama_colab_runner.ipynb)
 
 [![Ollama](https://ollama.com/public/ollama.png)](https://ollama.com)
 
