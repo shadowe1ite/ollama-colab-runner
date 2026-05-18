@@ -2,7 +2,7 @@
 
 A simple jupyter Notebook to run your LLM models via Ollama in Google Colab.
 
-You can use the free tier with your Google account with T4 hardware (16GB).
+You can use the free tier with your Google account with T4 hardware (16GB) for up to 7B models.
 
 You can also use this endpoint in your clients or even in VS Code via custom Ollama model.
 
